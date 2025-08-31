@@ -1,0 +1,2 @@
+# automation-factory
+Thoughtful AI
