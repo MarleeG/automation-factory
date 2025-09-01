@@ -1,0 +1,19 @@
+{
+  "name": "automation-factory",
+  "version": "1.0.0",
+  "description": "A simple TypeScript program that classifies packages as rejected, special, or standard based on their volume and mass.",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest",
+    "start": "tsc -p tsconfig.json && node dist/app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^30.0.0",
+    "jest": "^30.1.1",
+    "ts-jest": "^29.4.1",
+    "typescript": "^5.9.2"
+  }
+}
